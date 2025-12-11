@@ -1,9 +1,15 @@
 ![b7ecc203-8aa7-4c7d-82c8-bf32a7d4bdae_rwc_0x0x6182x](https://github.com/user-attachments/assets/84ba692c-077a-43c1-9ced-97afd8c37186)
 
 I'm a recent graduate from Appalachian State University in Boone, NC. I've earned my undergraduate degree in Computer Information Systems (BSBA) and a minor in Graphic Communications Management.
+
 I'm very active in the Boy Scouts of America and spend much of my time working with their National Honor Society called the Order of the Arrow. I earned my Eagle Scout Rank in June of 2013. I've served in a number of positions in both the Boy Scouts and their honor society. Most notable would be the Secretary of the Southern Region Section 7B which serves the entire state of North Carolina. I also served two years as the National Videography Lead of the Order of the Arrow and served four years as the National Visual Media Lead of the Order of the Arrow.
+
 Over the summer of 2017, I worked for WRAL Digital Solutions in Raleigh, NC as a web designer and developer.
+
 During the summer of 2018 and 2019, I interned for the Defense Intelligence Agency as part of the IT Business Policy and Process Management Team. I am cleared for Top Secret Information and granted access to sensitive compartmented information based on a single scope background investigation completed on February 13, 2018.
+
 Throughout my college career I worked at the Holmes Convocation Center which is operated by Appalachian State University and am employed as a Production Team Member.
+
 In June of 2020, I began my career with Booz Allen Hamilton as an Experience Designer Consultant. I'm currently employed by Booz Allen in the McLean, VA area.
+
 For those who are curious, the image I have in the header is Boone, NC during the Solar Eclipse in the Fall of 2017. The image was taken on the roof of the Holmes Convocation Center by me and shows all of Appalachian State University.
