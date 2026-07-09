@@ -14,6 +14,6 @@ In June 2020, I began my career with Booz Allen Hamilton as an Experience Design
 
 In April 2022, I joined CACI International, Inc. as a Senior Software Developer supporting the Chief Information Officer within the Office of the Director of National Intelligence to modernize their internal and external web presence. In May 2023 I was promoted to a management position overseeing my previous team.
 
-In July 2025, I joined Silveredge (now part of SAIC) as part of their Soar software-as-a-service (SaaS) offering. I am currently a DevOps Software Developer supporting the Intelligence Community's Chief Information Officer.
+In July 2025, I joined QVine (now part of SAIC) as part of their Soar software-as-a-service (SaaS) offering. I am currently a DevOps Software Developer supporting the Intelligence Community's Chief Information Officer.
 
 For those curious, the header image shows Boone, NC during the solar eclipse in fall 2017. I took the photo from the roof of the Holmes Convocation Center; it shows the entire Appalachian State University campus.
